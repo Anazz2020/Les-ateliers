@@ -1,0 +1,9 @@
+C:\Users\mohammado\Desktop\Les ateliers\New folder\atelier8\Atelier8 Plus\bin\Debug\Atelier8 Plus.exe.config
+C:\Users\mohammado\Desktop\Les ateliers\New folder\atelier8\Atelier8 Plus\obj\Debug\Atelier8_Plus.Properties.Resources.resources
+C:\Users\mohammado\Desktop\Les ateliers\New folder\atelier8\Atelier8 Plus\obj\Debug\Atelier8 Plus.csproj.GenerateResource.Cache
+C:\Users\mohammado\Desktop\Les ateliers\New folder\atelier8\Atelier8 Plus\bin\Debug\Atelier8 Plus.exe
+C:\Users\mohammado\Desktop\Les ateliers\New folder\atelier8\Atelier8 Plus\bin\Debug\Atelier8 Plus.pdb
+C:\Users\mohammado\Desktop\Les ateliers\New folder\atelier8\Atelier8 Plus\obj\Debug\Atelier8 Plus.exe
+C:\Users\mohammado\Desktop\Les ateliers\New folder\atelier8\Atelier8 Plus\obj\Debug\Atelier8 Plus.pdb
+C:\Users\mohammado\Desktop\Les ateliers\New folder\atelier8\Atelier8 Plus\obj\Debug\Atelier8 Plus.csprojResolveAssemblyReference.cache
+C:\Users\mohammado\Desktop\Les ateliers\New folder\atelier8\Atelier8 Plus\obj\Debug\Atelier8_Plus.Form2.resources

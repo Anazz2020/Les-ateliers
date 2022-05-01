@@ -1,0 +1,6 @@
+C:\Users\mohammado\Desktop\Les ateliers\stagaire\stagaire\bin\Debug\stagaire.exe.config
+C:\Users\Tipico Gmbh\Desktop\Les ateliers\stagaire\stagaire\bin\Debug\stagaire.exe.config
+C:\Users\Tipico Gmbh\Desktop\Les ateliers\stagaire\stagaire\obj\Debug\stagaire.csprojResolveAssemblyReference.cache
+C:\Users\Tipico Gmbh\Desktop\Les ateliers\stagaire\stagaire\obj\Debug\stagaire.Form1.resources
+C:\Users\Tipico Gmbh\Desktop\Les ateliers\stagaire\stagaire\obj\Debug\stagaire.Properties.Resources.resources
+C:\Users\Tipico Gmbh\Desktop\Les ateliers\stagaire\stagaire\obj\Debug\stagaire.csproj.GenerateResource.Cache

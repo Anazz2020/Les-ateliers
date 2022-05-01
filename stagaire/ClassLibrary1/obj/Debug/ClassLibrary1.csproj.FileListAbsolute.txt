@@ -1,0 +1,7 @@
+C:\Users\Tipico Gmbh\Desktop\Les ateliers\stagaire\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Tipico Gmbh\Desktop\Les ateliers\stagaire\ClassLibrary1\obj\Debug\ClassLibrary1.Form2.resources
+C:\Users\Tipico Gmbh\Desktop\Les ateliers\stagaire\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.GenerateResource.Cache
+C:\Users\Tipico Gmbh\Desktop\Les ateliers\stagaire\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Tipico Gmbh\Desktop\Les ateliers\stagaire\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Tipico Gmbh\Desktop\Les ateliers\stagaire\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Tipico Gmbh\Desktop\Les ateliers\stagaire\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

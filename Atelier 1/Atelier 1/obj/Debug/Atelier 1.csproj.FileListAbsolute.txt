@@ -1,0 +1,12 @@
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\Atelier 1\bin\Debug\Atelier 1.exe.config
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\Atelier 1\bin\Debug\Atelier 1.exe
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\Atelier 1\bin\Debug\Atelier 1.pdb
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\Atelier 1\obj\Debug\Atelier 1.csprojResolveAssemblyReference.cache
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\Atelier 1\obj\Debug\Atelier_1.Properties.Resources.resources
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\Atelier 1\obj\Debug\Atelier 1.csproj.GenerateResource.Cache
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\Atelier 1\obj\Debug\Atelier 1.exe
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\Atelier 1\obj\Debug\Atelier 1.pdb
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\Atelier 1\obj\Debug\Atelier_1.ex2.resources
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\Atelier 1\obj\Debug\Atelier_1.ex3.resources
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\Atelier 1\obj\Debug\Atelier_1.exercices.resources
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\Atelier 1\obj\Debug\Atelier_1.ex1.resources

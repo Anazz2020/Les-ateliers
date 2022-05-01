@@ -1,0 +1,21 @@
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\WindowsFormsApplication1\obj\Debug\Les ateliers.csprojResolveAssemblyReference.cache
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\WindowsFormsApplication1\obj\Debug\Atelier_2.Form1.resources
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\WindowsFormsApplication1\obj\Debug\Ateleier3.Form1.resources
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\WindowsFormsApplication1\obj\Debug\Ateleier4.Form1.resources
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\WindowsFormsApplication1\obj\Debug\Atelier_1.exercices.resources
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\WindowsFormsApplication1\obj\Debug\FormCalcule.Form1.resources
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\WindowsFormsApplication1\obj\Debug\Ateleier5.Form1.resources
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\WindowsFormsApplication1\obj\Debug\Les ateliers.csproj.GenerateResource.Cache
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\WindowsFormsApplication1\obj\Debug\Atelier_2.Form2.resources
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\WindowsFormsApplication1\obj\Debug\Atelier_1.ex1.resources
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\WindowsFormsApplication1\obj\Debug\Atelier_1.ex2.resources
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\WindowsFormsApplication1\obj\Debug\Atelier_1.ex3.resources
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\WindowsFormsApplication1\bin\Debug\Ateleier4.exe
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\WindowsFormsApplication1\bin\Debug\Ateleier4.pdb
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\mohammado\Desktop\Les ateliers\Atelier 1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

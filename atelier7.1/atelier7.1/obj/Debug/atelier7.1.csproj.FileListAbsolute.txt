@@ -1,0 +1,10 @@
+C:\Users\mohammado\Desktop\Les ateliers\atelier7.1\atelier7.1\bin\Debug\atelier7.1.exe.config
+C:\Users\mohammado\Desktop\Les ateliers\atelier7.1\atelier7.1\obj\Debug\atelier7.1.csprojResolveAssemblyReference.cache
+C:\Users\mohammado\Desktop\Les ateliers\atelier7.1\atelier7.1\obj\Debug\atelier7._1.Form1.resources
+C:\Users\mohammado\Desktop\Les ateliers\atelier7.1\atelier7.1\obj\Debug\atelier7._1.Properties.Resources.resources
+C:\Users\mohammado\Desktop\Les ateliers\atelier7.1\atelier7.1\obj\Debug\atelier7.1.csproj.GenerateResource.Cache
+C:\Users\mohammado\Desktop\Les ateliers\atelier7.1\atelier7.1\bin\Debug\atelier7.1.exe
+C:\Users\mohammado\Desktop\Les ateliers\atelier7.1\atelier7.1\bin\Debug\atelier7.1.pdb
+C:\Users\mohammado\Desktop\Les ateliers\atelier7.1\atelier7.1\obj\Debug\atelier7.1.exe
+C:\Users\mohammado\Desktop\Les ateliers\atelier7.1\atelier7.1\obj\Debug\atelier7.1.pdb
+C:\Users\mohammado\Desktop\Les ateliers\atelier7.1\atelier7.1\obj\Debug\atelier7._1.Form2.resources

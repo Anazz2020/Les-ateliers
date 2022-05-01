@@ -1,0 +1,4 @@
+C:\Users\mohammado\Desktop\Les ateliers\New folder\atelier8\Atelier8plus\bin\Debug\Atelier8plus.exe.config
+C:\Users\mohammado\Desktop\Les ateliers\New folder\atelier8\Atelier8plus\obj\Debug\atelier8.Form1.resources
+C:\Users\mohammado\Desktop\Les ateliers\New folder\atelier8\Atelier8plus\obj\Debug\Atelier8plus.Properties.Resources.resources
+C:\Users\mohammado\Desktop\Les ateliers\New folder\atelier8\Atelier8plus\obj\Debug\Atelier8plus.csproj.GenerateResource.Cache
